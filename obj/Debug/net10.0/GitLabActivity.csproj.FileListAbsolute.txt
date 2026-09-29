@@ -1,0 +1,15 @@
+c:\Users\acer\Documents\Programs\c#\GitLabActivity\bin\Debug\net10.0\GitLabActivity.exe
+C:\Users\acer\Documents\Programs\c#\GitLabActivity\bin\Debug\net10.0\GitLabActivity.deps.json
+C:\Users\acer\Documents\Programs\c#\GitLabActivity\bin\Debug\net10.0\GitLabActivity.runtimeconfig.json
+c:\Users\acer\Documents\Programs\c#\GitLabActivity\bin\Debug\net10.0\GitLabActivity.dll
+c:\Users\acer\Documents\Programs\c#\GitLabActivity\bin\Debug\net10.0\GitLabActivity.pdb
+c:\Users\acer\Documents\Programs\c#\GitLabActivity\obj\Debug\net10.0\GitLabActivity.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\acer\Documents\Programs\c#\GitLabActivity\obj\Debug\net10.0\GitLabActivity.AssemblyInfoInputs.cache
+c:\Users\acer\Documents\Programs\c#\GitLabActivity\obj\Debug\net10.0\GitLabActivity.AssemblyInfo.cs
+c:\Users\acer\Documents\Programs\c#\GitLabActivity\obj\Debug\net10.0\GitLabActivity.csproj.CoreCompileInputs.cache
+c:\Users\acer\Documents\Programs\c#\GitLabActivity\obj\Debug\net10.0\GitLabActivity.sourcelink.json
+c:\Users\acer\Documents\Programs\c#\GitLabActivity\obj\Debug\net10.0\GitLabActivity.dll
+c:\Users\acer\Documents\Programs\c#\GitLabActivity\obj\Debug\net10.0\refint\GitLabActivity.dll
+c:\Users\acer\Documents\Programs\c#\GitLabActivity\obj\Debug\net10.0\GitLabActivity.pdb
+C:\Users\acer\Documents\Programs\c#\GitLabActivity\obj\Debug\net10.0\GitLabActivity.genruntimeconfig.cache
+C:\Users\acer\Documents\Programs\c#\GitLabActivity\obj\Debug\net10.0\ref\GitLabActivity.dll
